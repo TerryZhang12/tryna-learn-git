@@ -1,9 +1,14 @@
 #include <iostream>
 #include <SFML/Graphics.hpp>
 
+#include "global.h"
+
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode({ 200, 200 }), "SFML works!");
+    const unsigned int SCREENWIDTH = 500;
+    const unsigned int SCREENHEIGHT = 500;
+
+    sf::RenderWindow window(sf::VideoMode({ SCREENWIDTH, SCREENHEIGHT }), "SFML works!");
     sf::CircleShape shape(100.f);
     shape.setFillColor(sf::Color::Green);
 

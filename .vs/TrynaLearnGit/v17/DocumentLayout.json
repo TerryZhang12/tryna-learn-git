@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{690FD23D-49CF-4FCA-AEBE-C2143439C60D}|TrynaLearnGit\\TrynaLearnGit.vcxproj|C:\\Visual Studio\\TrynaLearnGit\\TrynaLearnGit\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{690FD23D-49CF-4FCA-AEBE-C2143439C60D}|TrynaLearnGit\\TrynaLearnGit.vcxproj|solutionrelative:TrynaLearnGit\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690FD23D-49CF-4FCA-AEBE-C2143439C60D}|TrynaLearnGit\\TrynaLearnGit.vcxproj|C:\\Visual Studio\\TrynaLearnGit\\TrynaLearnGit\\Source\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{690FD23D-49CF-4FCA-AEBE-C2143439C60D}|TrynaLearnGit\\TrynaLearnGit.vcxproj|solutionrelative:TrynaLearnGit\\Source\\global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 278,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "global.h",
+              "DocumentMoniker": "C:\\Visual Studio\\TrynaLearnGit\\TrynaLearnGit\\Source\\global.h",
+              "RelativeDocumentMoniker": "TrynaLearnGit\\Source\\global.h",
+              "ToolTip": "C:\\Visual Studio\\TrynaLearnGit\\TrynaLearnGit\\Source\\global.h",
+              "RelativeToolTip": "TrynaLearnGit\\Source\\global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T00:24:20.647Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "TrynaLearnGit\\Source\\main.cpp",
               "ToolTip": "C:\\Visual Studio\\TrynaLearnGit\\TrynaLearnGit\\Source\\main.cpp",
               "RelativeToolTip": "TrynaLearnGit\\Source\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T23:53:17.593Z",
               "EditorCaption": ""
